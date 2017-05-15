@@ -9,7 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (strong, nonatomic) IBOutlet UIView *topView;
 
+@property (strong, nonatomic) IBOutlet UITextField *textF;
 
 @end
 

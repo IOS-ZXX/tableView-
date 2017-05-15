@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0424801E1E8B67FD00FA3FA2 /* tabelView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0424801D1E8B67FD00FA3FA2 /* tabelView.m */; };
+		044D29E31E77C7F40066C758 /* cebian_sel@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 044D29E21E77C7F40066C758 /* cebian_sel@2x.png */; };
+		044D29E61E77CD2B0066C758 /* btn1.m in Sources */ = {isa = PBXBuildFile; fileRef = 044D29E51E77CD2B0066C758 /* btn1.m */; };
 		045589911E7548650025651E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 045589901E7548650025651E /* main.m */; };
 		045589941E7548650025651E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 045589931E7548650025651E /* AppDelegate.m */; };
 		045589971E7548650025651E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 045589961E7548650025651E /* ViewController.m */; };
@@ -14,6 +17,9 @@
 		0455899C1E7548660025651E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0455899B1E7548660025651E /* Assets.xcassets */; };
 		0455899F1E7548660025651E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0455899D1E7548660025651E /* LaunchScreen.storyboard */; };
 		045589AA1E7548660025651E /* tableView____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 045589A91E7548660025651E /* tableView____UITests.m */; };
+		046F7A891EB47298005716AD /* myTool.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 046F7A881EB47298005716AD /* myTool.framework */; };
+		04DC82AC1E8A3116009361E7 /* SelectViewCtrl.m in Sources */ = {isa = PBXBuildFile; fileRef = 04DC82AA1E8A3116009361E7 /* SelectViewCtrl.m */; };
+		04DC82AD1E8A3116009361E7 /* SelectViewCtrl.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04DC82AB1E8A3116009361E7 /* SelectViewCtrl.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +33,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0424801C1E8B67FD00FA3FA2 /* tabelView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tabelView.h; sourceTree = "<group>"; };
+		0424801D1E8B67FD00FA3FA2 /* tabelView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tabelView.m; sourceTree = "<group>"; };
+		044D29E21E77C7F40066C758 /* cebian_sel@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cebian_sel@2x.png"; sourceTree = "<group>"; };
+		044D29E41E77CD2B0066C758 /* btn1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = btn1.h; sourceTree = "<group>"; };
+		044D29E51E77CD2B0066C758 /* btn1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = btn1.m; sourceTree = "<group>"; };
 		0455898C1E7548650025651E /* tableView组头点击.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "tableView组头点击.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		045589901E7548650025651E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		045589921E7548650025651E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -40,6 +51,11 @@
 		045589A51E7548660025651E /* tableView组头点击UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "tableView组头点击UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		045589A91E7548660025651E /* tableView____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "tableView____UITests.m"; sourceTree = "<group>"; };
 		045589AB1E7548660025651E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		046F7A331EB421A0005716AD /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		046F7A881EB47298005716AD /* myTool.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = myTool.framework; sourceTree = "<group>"; };
+		04DC82A91E8A3116009361E7 /* SelectViewCtrl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectViewCtrl.h; sourceTree = "<group>"; };
+		04DC82AA1E8A3116009361E7 /* SelectViewCtrl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectViewCtrl.m; sourceTree = "<group>"; };
+		04DC82AB1E8A3116009361E7 /* SelectViewCtrl.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SelectViewCtrl.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +63,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				046F7A891EB47298005716AD /* myTool.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -66,6 +83,7 @@
 				0455898E1E7548650025651E /* tableView组头点击 */,
 				045589A81E7548660025651E /* tableView组头点击UITests */,
 				0455898D1E7548650025651E /* Products */,
+				046F7A321EB421A0005716AD /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -81,15 +99,20 @@
 		0455898E1E7548650025651E /* tableView组头点击 */ = {
 			isa = PBXGroup;
 			children = (
+				046F7A881EB47298005716AD /* myTool.framework */,
+				044D29E21E77C7F40066C758 /* cebian_sel@2x.png */,
 				045589921E7548650025651E /* AppDelegate.h */,
 				045589931E7548650025651E /* AppDelegate.m */,
 				045589951E7548650025651E /* ViewController.h */,
 				045589961E7548650025651E /* ViewController.m */,
 				045589981E7548660025651E /* Main.storyboard */,
+				04DC82A81E8A3064009361E7 /* 点击下拉选择 */,
 				0455899B1E7548660025651E /* Assets.xcassets */,
 				0455899D1E7548660025651E /* LaunchScreen.storyboard */,
 				045589A01E7548660025651E /* Info.plist */,
 				0455898F1E7548650025651E /* Supporting Files */,
+				044D29E41E77CD2B0066C758 /* btn1.h */,
+				044D29E51E77CD2B0066C758 /* btn1.m */,
 			);
 			path = "tableView组头点击";
 			sourceTree = "<group>";
@@ -109,6 +132,34 @@
 				045589AB1E7548660025651E /* Info.plist */,
 			);
 			path = "tableView组头点击UITests";
+			sourceTree = "<group>";
+		};
+		046F7A321EB421A0005716AD /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				046F7A331EB421A0005716AD /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		04DC82A81E8A3064009361E7 /* 点击下拉选择 */ = {
+			isa = PBXGroup;
+			children = (
+				04DC82A91E8A3116009361E7 /* SelectViewCtrl.h */,
+				04DC82AA1E8A3116009361E7 /* SelectViewCtrl.m */,
+				04DC82AB1E8A3116009361E7 /* SelectViewCtrl.xib */,
+				04DC82AE1E8A3A35009361E7 /* View */,
+			);
+			path = "点击下拉选择";
+			sourceTree = "<group>";
+		};
+		04DC82AE1E8A3A35009361E7 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				0424801C1E8B67FD00FA3FA2 /* tabelView.h */,
+				0424801D1E8B67FD00FA3FA2 /* tabelView.m */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -197,6 +248,8 @@
 			files = (
 				0455899F1E7548660025651E /* LaunchScreen.storyboard in Resources */,
 				0455899C1E7548660025651E /* Assets.xcassets in Resources */,
+				04DC82AD1E8A3116009361E7 /* SelectViewCtrl.xib in Resources */,
+				044D29E31E77C7F40066C758 /* cebian_sel@2x.png in Resources */,
 				0455899A1E7548660025651E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -216,7 +269,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				045589971E7548650025651E /* ViewController.m in Sources */,
+				0424801E1E8B67FD00FA3FA2 /* tabelView.m in Sources */,
+				04DC82AC1E8A3116009361E7 /* SelectViewCtrl.m in Sources */,
 				045589941E7548650025651E /* AppDelegate.m in Sources */,
+				044D29E61E77CD2B0066C758 /* btn1.m in Sources */,
 				045589911E7548650025651E /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -353,9 +409,21 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				DEVELOPMENT_TEAM = 6M7ZA6T4J2;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/tableView组头点击",
+					"$(PROJECT_DIR)/tableView组头点击/点击下拉选择/View",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = "tableView组头点击/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/tableView组头点击",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "ZXX.tableView----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -365,9 +433,21 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				DEVELOPMENT_TEAM = 6M7ZA6T4J2;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/tableView组头点击",
+					"$(PROJECT_DIR)/tableView组头点击/点击下拉选择/View",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = "tableView组头点击/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/tableView组头点击",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "ZXX.tableView----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -416,6 +496,7 @@
 				045589B01E7548660025651E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		045589B11E7548660025651E /* Build configuration list for PBXNativeTarget "tableView组头点击UITests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +505,7 @@
 				045589B31E7548660025651E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
